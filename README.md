@@ -17,10 +17,13 @@ Here are some ideas to get you started:
 
 ##
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0bener&label=Profile%20views&color=0e75b6&style=flat" alt="0bener" /> </p>
+
+
 <div align="center">
   <a href="https://github.com/0bener">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=0bener&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0bener&theme=highcontrast"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=0bener&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0bener&theme=highcontrast"/>
 </div>
 
 ##
